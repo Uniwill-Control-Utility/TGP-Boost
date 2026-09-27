@@ -40,8 +40,9 @@ Before starting, configure your system to allow development-signed kernel driver
 
 ### 2. Install Unbound
 1. Right-click `INSTALL-XMGPOWERPATCH.bat` and select **Run as administrator**.
-2. Once the console reports `STARTUP_INSTALLED`, restart your computer.
-3. Log in to Windows. The patch applies automatically via an elevated scheduled task at login.
+2. If the console shout out a previous runtime detected you had to restart and use the installer again.
+3. Once the console reports `STARTUP_INSTALLED`, restart your computer.
+4. Log in to Windows. The patch applies automatically via an elevated scheduled task at login.
 
 ### 3. Apply Your Power Profile
 Open the bundled Uniwill-Control-Utility (UCU):
